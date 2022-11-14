@@ -1,0 +1,19 @@
+step 1
+>>copy this in your project file>>
+ [angular.json] >> in style[] attribute
+
+"../node_modules/bootstrap/dist/css/bootstrap.min.css"
+
+step 2 
+run this command 
+on your inside of your app location of your project 
+folder like in C:\angu_project\app>>> npm install bootstrap
+
+step 3 
+run this command>> ng serve 
+
+step 4 
+put html item in app.component.html
+
+step 5 
+success!
